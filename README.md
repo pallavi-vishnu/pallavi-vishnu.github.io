@@ -14,11 +14,7 @@
     February 2016 - Present
     •	Took time from my profession for raising two kids and taking care of the family.
     •	Completed multiple courses to learn Data Science and polish my existing skills for becoming a data scientist.
-    Full-time parenting
-    February 2016 - Present
-    •	Took time from my profession for raising two kids and taking care of the family.
-    •	Completed multiple courses to learn Data Science and polish my existing skills for becoming a data scientist.
-
+   
 ### Lawyer
       District Court of Thane, Maharashtra, India.
       December 2008 - February 2016 (7 years 3 months)
