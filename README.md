@@ -1,13 +1,24 @@
-# Former Lawyer and a self-taught Data Analyst
+# Hi, I am Pallavi Vishnu 
+Former Lawyer and a self-taught Data Analyst
 
 ## Education
 * Bachelor of Social Legal Science – BSL, Law
 * Bachelor of Laws – LLB, Law
 
+## Programming Skills
+Python, SQL, Tableau, Excel.
+
+## Data Analysis Projects
+-[Data Cleaning with Python](https://github.com/pallavi-vishnu/Uncleaned_data)
+
+-[Customer sentiment analysis with SQL](https://github.com/pallavi-vishnu/CustomerSentimentData)
+
 ## Certifications
-* Master Python Programming by solving scientific projects – Udemy.
-* How to tell a story with data- Udemy.
-* Data Analyst Associate - datacamp.
+-[Master Python Programming by solving scientific projects – Udemy.](https://www.udemy.com/certificate/UC-1caeb9b5-e7cb-404d-9a2d-7d425805395b)
+
+-[How to tell a story with data- Udemy.](https://www.udemy.com/certificate/UC-3c2c5486-74e1-45a5-bb9f-9321ed9a6264)
+
+-[Data Analyst Associate - datacamp.](https://www.datacamp.com/certificate/DAA0015982561345)
 
 ## Work Experience
 ### Full-time parenting
