@@ -10,7 +10,7 @@
 * Data Analyst Associate - datacamp.
 
 ### Work Experience
-Full-time parenting
+##Full-time parenting
   February 2016 - Present
   •	Took time from my profession for raising two kids and taking care of the family.
   •	Completed multiple courses to learn Data Science and polish my existing skills for becoming a data scientist.
