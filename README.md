@@ -9,7 +9,8 @@ Former Lawyer and a self-taught Data Analyst
 Python, SQL, Tableau, Excel.
 
 ## Data Analysis Projects
--[Data Analysis and Vizualization with Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjA1Mzc1NmEtMmQ4ZC00YTQyLWJhODctZGQ1OTRjMjdhOWJmIiwidCI6IjEzODA3OTNjLTE2MGQtNGE4MS05OTJiLWJiZjM3NDQ4YWI4ZCIsImMiOjN9&embedImagePlaceholder=true)
+-[Data Analysis and Vizualization with Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjA1Mzc1NmEtMmQ4ZC00YTQyLWJhODctZGQ1OTRjMjdhOWJmIiwidCI6IjEzODA3OTNjLTE2MGQtNGE4MS05OTJiLWJiZjM3NDQ4YWI4ZCIsImMiOjN9
+)
 
 -[Data Cleaning with Python](https://github.com/pallavi-vishnu/Uncleaned_data)
 
