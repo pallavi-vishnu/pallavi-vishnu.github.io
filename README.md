@@ -26,27 +26,32 @@ Python, SQL, Tableau, Excel, Power BI.
 ## Work Experience
 ### Full-time parenting
     February 2016 - Present
-    •	Took time from my profession for raising two kids and taking care of the family.
-    •	Pursued formal training in data analysis, including coursework in Statistics, Python, SQL, 
-        Power BI.
+        •	Managed household responsibilities, developing strong organizational and time management skills.  
+        •	Pursued formal training in data analysis (Statistics, Python, SQL, Power BI), demonstrating commitment to continuous learning.  
+        •	Strengthened problem-solving abilities by interpreting data and deriving meaningful insights.
+        •	Applied analytical skills to personal projects, including:
+            -	Customer sentiment analysis  
+            -	Data cleaning and visualization  
+
+   
 ### Lawyer
       District Court of Thane, Maharashtra, India.
       December 2008 - February 2016 (7 years 3 months)
     
-      •	Independently handled civil and quasi criminal cases.
-      •	Provided legal advice to clients.
-      •	Managed all legal formalities pertaining to the cases.
-      •	Coordinated court work and drafting of various legal documents.
-      •	Executed litigation strategies that consistently produced desired outcome for clients.
-      •	Investigated cases thoroughly based on various sections and subsections of concerned law.
-      •	Educated clients on civil and criminal court proceedings related to their cases.
+        •	Independently managed civil and quasi-criminal cases, enhancing analytical thinking and critical problem-solving skills.  
+        •	Conducted thorough research and investigations, allowing for in-depth evaluation of complex information.  
+        •	Provided data-driven legal advice, ensuring accuracy and detail in documentation and court proceedings.  
+        •	Developed effective communication skills by explaining complex legal concepts to clients, making data insights relatable.
 
 ### Junior Lawyer
       District Court of Ahmednagar, Maharashtra, India.
       June 2006 - February 2008 (1 year 9 months)
       
-      •	Assisted senior lawyers on legal matters, documentation and follow up in court matters.
-      •	Communicated with clients to advise on complex legal issues.
-      •	Ensured the documentation was up to date and well organized.
+        •	Assisted senior lawyers with case documentation, ensuring accuracy and organization, reinforcing attention to detail.  
+        •	Collaborated with the legal team, synthesizing information and developing effective strategies.  
+        •	Engaged with clients to communicate complex legal issues, honing the ability to present insights clearly and effectively.  
+        •	Identified key metrics for decision-making, leveraging experience in client engagement.
+        
+
 
 
