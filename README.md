@@ -36,7 +36,7 @@ Python, SQL, Tableau, Excel, Power BI.
             -	Data cleaning and visualization  
 
    
-### Lawyer
+###  Legal Practitioner
       District Court of Thane, Maharashtra, India.
       December 2008 - February 2016 (7 years 3 months)
     
@@ -45,7 +45,7 @@ Python, SQL, Tableau, Excel, Power BI.
         •	Provided data-driven legal advice, ensuring accuracy and detail in documentation and court proceedings.  
         •	Developed effective communication skills by explaining complex legal concepts to clients, making data insights relatable.
 
-### Junior Lawyer
+### Law Intern
       District Court of Ahmednagar, Maharashtra, India.
       June 2006 - February 2008 (1 year 9 months)
       
