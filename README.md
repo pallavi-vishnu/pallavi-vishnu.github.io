@@ -12,6 +12,8 @@ Python, SQL, Tableau, Excel, Power BI.
 -[Data Analysis and Visualization with Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjA1Mzc1NmEtMmQ4ZC00YTQyLWJhODctZGQ1OTRjMjdhOWJmIiwidCI6IjEzODA3OTNjLTE2MGQtNGE4MS05OTJiLWJiZjM3NDQ4YWI4ZCIsImMiOjN9
 )
 
+-[Vizualization with Python](https://github.com/pallavi-vishnu/VizualizeWithPython)
+
 -[Data Cleaning with Python](https://github.com/pallavi-vishnu/Uncleaned_data)
 
 -[Customer sentiment analysis with SQL](https://github.com/pallavi-vishnu/CustomerSentimentData)
