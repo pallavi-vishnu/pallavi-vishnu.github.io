@@ -27,7 +27,7 @@ Python, SQL, Tableau, Excel, Power BI.
 
 ## Work Experience
 ### Full-time parenting
-    February 2016 - Present
+    February 2020 - Present
         •	Managed household responsibilities, developing strong organizational and time management skills.  
         •	Pursued formal training in data analysis (Statistics, Python, SQL, Power BI), demonstrating commitment to continuous learning.  
         •	Strengthened problem-solving abilities by interpreting data and deriving meaningful insights.
@@ -38,7 +38,7 @@ Python, SQL, Tableau, Excel, Power BI.
    
 ###  Legal Practitioner
       District Court of Thane, Maharashtra, India.
-      December 2008 - February 2016 (7 years 3 months)
+      December 2008 - February 2020
     
         •	Independently managed civil and quasi-criminal cases, enhancing analytical thinking and critical problem-solving skills.  
         •	Conducted thorough research and investigations, allowing for in-depth evaluation of complex information.  
@@ -47,7 +47,7 @@ Python, SQL, Tableau, Excel, Power BI.
 
 ### Law Intern
       District Court of Ahmednagar, Maharashtra, India.
-      June 2006 - February 2008 (1 year 9 months)
+      June 2006 - February 2008
       
         •	Assisted senior lawyers with case documentation, ensuring accuracy and organization, reinforcing attention to detail.  
         •	Collaborated with the legal team, synthesizing information and developing effective strategies.  
