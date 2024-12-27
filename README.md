@@ -19,6 +19,8 @@ Python, SQL, Tableau, Excel, Power BI.
 -[Customer sentiment analysis with SQL](https://github.com/pallavi-vishnu/CustomerSentimentData)
 
 ## Certifications
+-[Google Data Analytics.](https://www.coursera.org/account/accomplishments/specialization/JB4737WSWAHS)
+
 -[Master Python Programming by solving scientific projects – Udemy.](https://www.udemy.com/certificate/UC-1caeb9b5-e7cb-404d-9a2d-7d425805395b)
 
 -[How to tell a story with data- Udemy.](https://www.udemy.com/certificate/UC-3c2c5486-74e1-45a5-bb9f-9321ed9a6264)
