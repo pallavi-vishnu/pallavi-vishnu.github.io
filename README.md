@@ -28,7 +28,7 @@ Python, SQL, Tableau, Excel, Power BI.
 -[Data Analyst Associate - datacamp.](https://www.datacamp.com/certificate/DAA0015982561345)
 
 ## Work Experience
-### Full-time parenting
+### Freelance Data Analyst
     February 2020 - Present
         •	Managed household responsibilities, developing strong organizational and time management skills.  
         •	Pursued formal training in data analysis (Statistics, Python, SQL, Power BI), demonstrating commitment to continuous learning.  
@@ -38,7 +38,7 @@ Python, SQL, Tableau, Excel, Power BI.
             -	Data cleaning and visualization  
 
    
-###  Legal Practitioner
+###  Legal Practitioner/Legal Analyst
       District Court of Thane, Maharashtra, India.
       December 2008 - February 2020
     
