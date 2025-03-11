@@ -28,34 +28,27 @@ Python, SQL, Tableau, Excel, Power BI.
 -[Data Analyst Associate - datacamp.](https://www.datacamp.com/certificate/DAA0015982561345)
 
 ## Work Experience
-### Freelance Data Analyst
+ 
+###  Legal Practitioner/Legal Analyst
+      District Court of Thane, Maharashtra, India.
+      December 2008 - February 2020
+    
+       •	Conducted legal research and prepared reports to support case strategy. 
+       •	 Managed and analyzed legal data for accuracy and compliance. 
+       •	Collaborated with teams to assess risks and compliance in legal matters.
+       •	Provided legal research and insights to guide decision-making.
+       •	Summarized complex legal information into clear, actionable reports.
+       
+### Personal Development Period
     February 2020 - Present
-        •	Managed household responsibilities, developing strong organizational and time management skills.  
+        •	Took a personal development period to actively pursue certifications in data analysis. 
         •	Pursued formal training in data analysis (Statistics, Python, SQL, Power BI), demonstrating commitment to continuous learning.  
         •	Strengthened problem-solving abilities by interpreting data and deriving meaningful insights.
         •	Applied analytical skills to personal projects, including:
             -	Customer sentiment analysis  
             -	Data cleaning and visualization  
 
-   
-###  Legal Practitioner/Legal Analyst
-      District Court of Thane, Maharashtra, India.
-      December 2008 - February 2020
-    
-        •	Independently managed civil and quasi-criminal cases, enhancing analytical thinking and critical problem-solving skills.  
-        •	Conducted thorough research and investigations, allowing for in-depth evaluation of complex information.  
-        •	Provided data-driven legal advice, ensuring accuracy and detail in documentation and court proceedings.  
-        •	Developed effective communication skills by explaining complex legal concepts to clients, making data insights relatable.
 
-### Law Intern
-      District Court of Ahmednagar, Maharashtra, India.
-      June 2006 - February 2008
       
-        •	Assisted senior lawyers with case documentation, ensuring accuracy and organization, reinforcing attention to detail.  
-        •	Collaborated with the legal team, synthesizing information and developing effective strategies.  
-        •	Engaged with clients to communicate complex legal issues, honing the ability to present insights clearly and effectively.  
-        •	Identified key metrics for decision-making, leveraging experience in client engagement.
-        
-
 
 
